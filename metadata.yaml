@@ -1,0 +1,50 @@
+_repo: Relation-originale-du-voyage-de-Jacques-Cartier-au-Canada-en-1534_23801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cartier, Jacques
+    alias: Quartier, Jacques
+    birthdate: 1491
+    deathdate: 1557
+    gutenberg_agent_id: '4334'
+    url: http://www.gutenberg.org/2009/agents/4334
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jacques_Cartier
+    - http://fr.wikipedia.org/wiki/Jacques_Cartier
+  editors:
+  - agent_name: Michelant, Henri
+    aliases:
+    - Michelant, Heinrich
+    - Michelant, H. (Henri)
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '26041'
+    url: http://www.gutenberg.org/2009/agents/26041
+  - agent_name: Ramé, Alfred
+    alias: Rame, Alfred
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '26042'
+    url: http://www.gutenberg.org/2009/agents/26042
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2007-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23801'
+  lccn: '16021087'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada'
+- !lcc 'E011'
+- !lcsh 'America -- Discovery and exploration -- French'
+- !lcsh 'New France -- Discovery and exploration'
+- !lcsh 'Cartier, Jacques, 1491-1557'
+title: Relation originale du voyage de Jacques Cartier au Canada en 1534
+url: http://www.gutenberg.org/ebooks/23801
